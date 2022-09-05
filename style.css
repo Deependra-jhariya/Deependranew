@@ -1,0 +1,7 @@
+.container ul{
+    background-color: blue;
+}
+.container ul li{
+    float: left;
+    padding-left: 10;
+}
